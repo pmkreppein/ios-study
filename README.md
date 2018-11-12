@@ -25,3 +25,22 @@ Ever wonder what the state flag of Idaho looks like?  With this app, you're in l
 A simple, single view app that reaches out to the CryptoCompare API to get the latest Bitcoin price in 3 currencies.  Practiced working with networking in Swift and iOS.
 
 <img src="https://i.imgur.com/qixn0LD.png" width="40%">
+
+
+### Todo List App
+[Link to Repo](https://github.com/pmkreppein/todo-list-ios-core-data)
+
+Boring concept aside, but I built a Todo List app that allowed me to gain experience with Core Data, along with more TableView and Segue practice.
+
+
+![Screen capture](https://media.giphy.com/media/NlGCvWQw5C6KZwzizm/giphy.gif)
+
+### Photo Collector App
+
+[Link to Repo](https://github.com/pmkreppein/photo-collector)
+
+
+I built a toy Photo Collector app to gain experience using Core Data along with the UIImagePickerController.
+
+
+![Screen capture gif](https://media.giphy.com/media/9S3G0NXv2EKNu7r1mC/giphy.gif)
