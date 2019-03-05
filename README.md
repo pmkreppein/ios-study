@@ -9,8 +9,9 @@ Clone of the popular developer question website, built with Ruby on Rails
 
 #### Glance Cast
 [Link to Repo](https://github.com/pmkreppein/glance-cast-react)
-Weather info at a glance, built with React/Redux.  Work in progress! I want to rebuild this with Vue JS. [View Demo Here-Heroku](https://glance-cast-react.herokuapp.com/)
-<img src="https://imgur.com/a/8nMcAXk" width="40%">
+Weather info at a glance, built with React/Redux.  Work in progress! I want to rebuild this with Vue JS. [View Demo Here-Heroku](https://glance-cast-react.herokuapp.com/) 
+
+<img src="https://i.imgur.com/ydS9k7Q.png">
 
 ### Dice App
 [Link to Repo](https://github.com/pmkreppein/Dicee-App)
