@@ -1,6 +1,16 @@
-### My name is Pete, and I'm learning to create iOS apps.
-See what I'm working on as I work through iOS Development training courses.
-Below are some of the projects I have put together as part of my study.  Please feel free to reach out by creating a PR for this repo.  :D
+### My name is Pete, and I'm learning to create web, mobile, and iOS apps.
+I have completed both a Flatiron Full Stack Web Development bootcamp, along with several independent courses on iOS development, React, and Vue JS.    Please feel free to reach out by creating a PR for this repo.  :D  Here is a sample of the things that I have and am still working on:
+###Bootcamp Projects:
+
+####Stack Underflow
+[Link to Repo](https://github.com/pmkreppein/stack-underflow)
+Clone of the popular developer question website, built with Ruby on Rails
+
+####Glance Cast
+[Link to Repo](https://github.com/pmkreppein/glance-cast-react)
+Weather info at a glance, built with React/Redux.  Work in progress! I want to rebuild this with Vue JS. [View Demo Here-Heroku](https://glance-cast-react.herokuapp.com/)
+![Glancecast Screen Grab](https://imgur.com/a/8nMcAXk)
+
 
 ### Dice App
 [Link to Repo](https://github.com/pmkreppein/Dicee-App)
